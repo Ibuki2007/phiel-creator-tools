@@ -1,4 +1,3 @@
-import './style.css';
 import { STORAGE_KEY, createQuest, defaultState, difficultyXP, levelFromXP, resetDailies, safeParseState } from './model.js';
 
 const app = document.querySelector('#app');
